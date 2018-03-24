@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.pdfbox:pdfbox:0.7.3-dev-log4j-20060612">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/pdfbox/pdfbox/0.7.3-dev-log4j-20060612/pdfbox-0.7.3-dev-log4j-20060612.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/pdfbox/pdfbox/0.7.3-dev-log4j-20060612/pdfbox-0.7.3-dev-log4j-20060612-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/pdfbox/pdfbox/0.7.3-dev-log4j-20060612/pdfbox-0.7.3-dev-log4j-20060612-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
